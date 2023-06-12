@@ -1,5 +1,5 @@
 # Data Carpentry for Social Sciences & Humanities
 
-Slides for day 2 of [Data Carpentry for Social Sciences & Humanities](https://ubvu.github.io/2023-02-20-ldev-online/).
+Slides for day 2 of [Data Carpentry for Social Sciences & Humanities](https://leidenuniversitylibrary.github.io/2023-06-12-ldev-leiden/).
 
-- Day 4: in progress <!-- <https://bbartholdy.github.io/2023-02-20_dc-ldev_slides/day-4_slides.html> -->
+https://bbartholdy.github.io/2023-06-13_dc-ldev_slides/day2_Rmark-dataviz_slides.html
